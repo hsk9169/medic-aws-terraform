@@ -7,9 +7,3 @@
 - 호출 서버 정보
     - scheme: https
     - host: xfbzf96zsa.execute-api.ap-northeast-2.amazonaws.com
-    - base path: test
-- 호출 경로 정보
-    - /basic-api/{proxy+}
-    - /s3-api/{proxy+}
-    - /hosp-info
-        - GET
